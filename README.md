@@ -1,4 +1,4 @@
-<img align="left" width="80" height="80" src="" alt="Moody app icon">
+<img align="left" width="80" height="80" src="https://raw.githubusercontent.com/smaslennikov/moody/master/icon.png" alt="Moody app icon">
 
 # Moody
 
