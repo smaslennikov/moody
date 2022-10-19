@@ -1,3 +1,5 @@
+<img align="left" width="80" height="80" src="" alt="Moody app icon">
+
 # Moody
 
 *This app is currently in active development*
